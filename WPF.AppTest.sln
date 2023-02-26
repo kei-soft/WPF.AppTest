@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF.AppTest", "WPF.AppTest\WPF.AppTest.csproj", "{669BB6E3-4A96-490A-A18F-E98426F1E1B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF.ValidationRuleTest", "WPF.ValidationRuleTest\WPF.ValidationRuleTest.csproj", "{B7AF30A5-4980-44F3-8727-E5BB84E7F5FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{669BB6E3-4A96-490A-A18F-E98426F1E1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669BB6E3-4A96-490A-A18F-E98426F1E1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669BB6E3-4A96-490A-A18F-E98426F1E1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669BB6E3-4A96-490A-A18F-E98426F1E1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7AF30A5-4980-44F3-8727-E5BB84E7F5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7AF30A5-4980-44F3-8727-E5BB84E7F5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7AF30A5-4980-44F3-8727-E5BB84E7F5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7AF30A5-4980-44F3-8727-E5BB84E7F5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B773EF5-E1C8-49B3-9DA6-C052624D1B85}
+	EndGlobalSection
+EndGlobal
